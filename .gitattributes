@@ -1,1 +1,2 @@
 *.csv filter=lfs diff=lfs merge=lfs -text
+Data/Exp2_trajectories.zip filter=lfs diff=lfs merge=lfs -text
