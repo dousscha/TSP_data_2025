@@ -1,0 +1,71 @@
+[33mcommit 00e238d894469e3498997f1c7f2823116dd9810c[m[33m ([m[1;36mHEAD[m[33m -> [m[1;32mmain[m[33m)[m
+Author: dousscha <cha.doussot@gmail.com>
+Date:   Fri Oct 24 12:38:03 2025 +0200
+
+    Track ZIP file with Git LFS
+
+ .gitattributes | 1 [32m+[m
+ 1 file changed, 1 insertion(+)
+
+[33mcommit 53f49e37ae3a3746852a03851ba26a3b74bfd4a7[m
+Author: dousscha <cha.doussot@gmail.com>
+Date:   Fri Oct 24 12:00:31 2025 +0200
+
+    added large trajectories file
+
+ Data/Exp1_Chest_config.csv |   143 [32m+[m[31m-[m
+ Data/Exp1_data.csv         |  1408 [32m+[m[31m----[m
+ Data/Exp2_Chest_config.csv |   114 [32m+[m[31m-[m
+ Data/Exp2_data.csv         | 12269 [32m+[m[31m------------------------------------------[m
+ 4 files changed, 12 insertions(+), 13922 deletions(-)
+
+[33mcommit b76976fb3a9bdcee513ecdbf1f1055f220f91aa9[m
+Author: dousscha <cha.doussot@gmail.com>
+Date:   Fri Oct 24 11:59:18 2025 +0200
+
+    track larger files
+
+ .gitattributes | 1 [32m+[m
+ 1 file changed, 1 insertion(+)
+
+[33mcommit 46d8703a83b1f25fdf45f16cdf745ebdecbfbecb[m
+Author: dousscha <cha.doussot@gmail.com>
+Date:   Fri Oct 24 11:54:06 2025 +0200
+
+    update readme
+
+ README.md | 16 [32m++++++++++++++++[m
+ 1 file changed, 16 insertions(+)
+
+[33mcommit 20f7754cc0db5a0bacb1c01eef9344bf46b0e3f1[m
+Author: dousscha <cha.doussot@gmail.com>
+Date:   Fri Oct 24 11:46:28 2025 +0200
+
+    data for manuscript
+
+ Data/Exp1_Chest_config.csv |   140 [32m+[m
+ Data/Exp1_data.csv         |  1405 [32m+++++[m
+ Data/Exp2_Chest_config.csv |   111 [32m+[m
+ Data/Exp2_data.csv         | 12266 [32m+++++++++++++++++++++++++++++++++++++++++++[m
+ 4 files changed, 13922 insertions(+)
+
+[33mcommit cfefc65a346b709d293755aade0778364c5f0e78[m
+Author: dousscha <cha.doussot@gmail.com>
+Date:   Fri Oct 24 11:19:34 2025 +0200
+
+    'games a and b'
+
+ Game_A_EN.zip | Bin [31m0[m -> [32m33546509[m bytes
+ Game_B_EN.zip | Bin [31m0[m -> [32m33520809[m bytes
+ Jeux_A.zip    | Bin [31m0[m -> [32m33775297[m bytes
+ Jeux_B.zip    | Bin [31m0[m -> [32m33775298[m bytes
+ 4 files changed, 0 insertions(+), 0 deletions(-)
+
+[33mcommit c1732ff15c96de39199fb14fd9e27965c243280a[m
+Author: dousscha <cha.doussot@gmail.com>
+Date:   Fri Oct 24 11:14:37 2025 +0200
+
+    first commit ever
+
+ README.md | 1 [32m+[m
+ 1 file changed, 1 insertion(+)
